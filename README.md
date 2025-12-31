@@ -137,11 +137,13 @@ Export Functionality: Generate reports in PDF or Excel format
 Player Transfer System: Trade players between teams
 Match Simulator: Simulate games and update statistics
 
-Author:
+Authors:
 
 Ilyas El Moujdi
+Youssef Asnaoui
 
 Email: ilyaselmoujdi@gmail.com
+       Youssefasnaoui7@gmail.com
   
 
 
